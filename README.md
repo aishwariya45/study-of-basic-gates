@@ -76,12 +76,15 @@ assign f5=~f2;
 assign f6=a^b;
 assign f7=~(a^b);
 endmodule
-```
+
+**TRUTH TABLE**
+![WhatsApp Image 2024-10-29 at 10 24 50_4640060b](https://github.com/user-attachments/assets/74b12425-124b-49db-884a-eb5bd52ae5e1)
 
 
 
 
- Developed by:AISHWARIYA.S RegisterNumber: 24900840
+
+ Developed by:AISHWARIYA.S RegisterNumber: 24900840```
  
 **Logic symbol & Truthtable**
 ![LOGIC GATE](https://github.com/user-attachments/assets/968f2d17-0809-4a44-9b4c-923ff7f39ad9)
