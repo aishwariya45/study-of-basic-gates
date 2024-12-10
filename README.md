@@ -79,11 +79,6 @@ assign f7=~(a^b);
 endmodule
 ```
 
-**TRUTH TABLE**
-![WhatsApp Image 2024-10-29 at 10 24 50_4640060b](https://github.com/user-attachments/assets/74b12425-124b-49db-884a-eb5bd52ae5e1)
-
-
-
 
 
 
@@ -98,9 +93,7 @@ endmodule
 
 
 **Timing waveform**
-![Screenshot 2024-10-29 105746](https://github.com/user-attachments/assets/1c1c0c6b-74aa-42ce-a592-f1def57d9103)
-
-
+![Screenshot 2024-12-10 113112](https://github.com/user-attachments/assets/8f08bef6-1626-4359-aa60-eaee27c0b249)
 
 **Result:**
 basic logic gates are studied and truth table are verified
