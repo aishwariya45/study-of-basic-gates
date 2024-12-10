@@ -97,7 +97,7 @@ endmodule
 
 
 
-**Timing waveform
+**Timing waveform**
 ![Screenshot 2024-10-29 105746](https://github.com/user-attachments/assets/1c1c0c6b-74aa-42ce-a592-f1def57d9103)
 
 
