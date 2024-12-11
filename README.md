@@ -84,15 +84,21 @@ endmodule
 
  
 **Logic symbol & Truthtable**
+
+
 ![LOGIC GATE](https://github.com/user-attachments/assets/968f2d17-0809-4a44-9b4c-923ff7f39ad9)
 
 
 **RTL realization Output:** 
+
+
 ![Screenshot (1)](https://github.com/user-attachments/assets/59db64ad-eeb5-4ff5-9e76-05e4e5aeb19f)
 
 
 
 **Timing waveform**
+
+
 ![Screenshot 2024-12-10 113112](https://github.com/user-attachments/assets/8f08bef6-1626-4359-aa60-eaee27c0b249)
 
 **Result:**
